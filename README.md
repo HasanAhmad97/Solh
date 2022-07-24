@@ -7,16 +7,21 @@ Tawafuq system is a dashboard for disputants and staff applications, membership,
  -Sessions Archive<br>
  -Reports.<br>
  -Membership Control.<br>
+   -User control<br>
+   -Repairers Control<br>
+   -staff control<br>
+   -admin control<br>
+   -add user<br>
  -system configuration.<br>
-   -General system settings
-   -educational levels
-   -Participating parties
-   -Functions and Powers
-   -nationalities
-   -Causes of issues
-   -Case Categories
-   -Cases closed
-   -peace councils
-   -Case dates
+   -General system settings<br>
+   -educational levels<br>
+   -Participating parties<br>
+   -Functions and Powers<br>
+   -nationalities<br>
+   -Causes of issues<br>
+   -Case Categories<br>
+   -Cases closed<br>
+   -peace councils<br>
+   -Case dates<br>
  
     Technologies: PHP, Laravel, bootstrap, JavaScript, MySQL, ajax
